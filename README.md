@@ -1,9 +1,5 @@
 # Hi, I'm Michele 🎮
 
-## Update
-
-This ReadMe will be updated as soon as possible after my graduation on ~16th December, with the to the thesis link too (Italian only).
-
 ![Fireplace with snow header gif](https://github.com/ScrappyCocco/ScrappyCocco/blob/master/fireplace.gif?raw=true)
 
 *(The gif you can see above was a concept for the main menu of a game I made in Unity in mid 2016. I later remade it in Unreal4 at the end of 2017 because I always liked the look. I would love to remake it in Vulkan as soon as I have time to study GPGPU particles. This video is captured from the Unreal Version.)*
@@ -11,7 +7,7 @@ This ReadMe will be updated as soon as possible after my graduation on ~16th Dec
 ## About me
 
 Hi, my name is Michele, but you can call me Scrappy.
-I am studying Computer Science at the [University of Padua](https://www.unipd.it/).
+I graduated with a bachelor degree in Computer Science at the [University of Padua](https://www.unipd.it/en/). I did a final year Internship and "thesis", about [volumetric rendering of medical data](https://github.com/ScrappyCocco/StageETesi) (Italian only).
 
 I have always been passionate about game engines and rendering, so in my free time I am learning the basics of Vulkan ([ScrapEngine](https://github.com/ScrappyCocco/ScrapEngine)) and DirectX12 ([DXR](https://github.com/ScrappyCocco/DirectX-DXR-Tutorials)).
 
