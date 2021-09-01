@@ -15,4 +15,4 @@ I like to help other people to understand concepts I studied and understood, bec
 
 Since the end of 2019 I joined [Project Borealis](https://www.projectborealis.com/) as volunteer programmer to help the team creating a fan-made Half-Life game in Unreal Engine, doing mainly Audio Programming, another thing I am passionate about.
 
-I am currently working full time as Game programmer, while I keep helping Project Borealis in my spare time, doing much more than just Audio Programming.
+I am currently working full time as (Junior) Game Programmer, while I keep helping Project Borealis in my spare time, doing much more than just Audio Programming.
