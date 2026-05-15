@@ -7,4 +7,4 @@ I have always been passionate about game development and game engines, so in my 
 
 At the end of 2019 I joined [Project Borealis](https://www.projectborealis.com/) as volunteer programmer to help the team creating a fan-made Half-Life game in Unreal Engine, which I did for a couple of years. 
 
-I am currently working full time as Online (Game) Programmer developing racing games.
+I am currently working full time as Senior Online (Unreal) Game Programmer developing racing games.
